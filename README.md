@@ -8,7 +8,7 @@ This is a project for the 'Learn React' course from Scrimba.
 
 ## Links
 
-- Live Site URL: 
+- Live Site URL: https://main--cl4ram-react-notes-app.netlify.app/
 
 ## My process
 
