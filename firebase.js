@@ -1,8 +1,9 @@
 import { initializeApp } from "firebase/app";
 import { collection, getFirestore } from "firebase/firestore";
+import { apiKey } from "./key";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyACHm1BBrzWL-bkVLWMQzczY8aFPt9PF38",
+  apiKey: apiKey,
   authDomain: "notes-app-react-b9666.firebaseapp.com",
   projectId: "notes-app-react-b9666",
   storageBucket: "notes-app-react-b9666.appspot.com",
