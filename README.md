@@ -18,5 +18,5 @@ This is a project for the 'Learn React' course from Scrimba.
 
 ## To-do
 
-- Implement Firebase
+- ~~Implement Firebase~~
 - Update styles
